@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: #fefefe;
+
+}
+
+.map {
+  height: 600px;
+  width: 800px;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-left: 350px;
+}
